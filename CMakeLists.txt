@@ -115,6 +115,7 @@ if (WIN32)
 endif()
 
 option(ENABLE_HIDAPI "Build with HIDAPI" OFF)
+
 option(ENABLE_SDL "Enables the SDLController backend" ON)
 
 # audio backends
